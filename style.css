@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Dangrek&family=Romanesco&display=swap');
+
+/* Conteúdo */
+body{
+    background-image: url(imagens/black-prism-concept-ai-generated.jpg);
+    background-size: 500px;
+}
+.content{
+    margin: 200px 0px;
+}
+.container{
+    text-align: center;  
+    color: white;
+    padding: 70px;
+}
+.container h1 {
+    margin: 5px;
+}
+.container p {
+    margin: 5px;
+}
+.container button{
+    margin: 5px;
+    padding: 5px;
+    background-color: aqua;
+    border: none;
+    border-radius: 5px;
+}
